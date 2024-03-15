@@ -23,4 +23,5 @@ fun main() {
     meuJogo.capa = "https:\\/\\/cdn.cloudflare.steamstatic.com\\/steam\\/apps\\/35140\\/capsule_sm_120.jpg?t=1702934705"
 
     println(meuJogo)
+
 }
