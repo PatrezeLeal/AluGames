@@ -26,10 +26,13 @@ fun main() {
     println(json)
 
    val gson = Gson()
-    val meuInfoJogo = gson.fromJson(json, InfoJogo::class.java)
 
-    val meuJogo = Jogo(meuInfoJogo.info.title,meuInfoJogo.info.thumb)
+    try{
+        val meuInfoJogo = gson.fromJson(json, InfoJogo::class.java)
+        val meuJogo = Jogo(meuInfoJogo.info.title,meuInfoJogo.info.thumb)
 
-    println(meuJogo)
-
+        println(meuJogo)
+    }catch(ex: Throwable){
+        println("Jogo Inexistente, Tente outro id.")
+    }
 }
