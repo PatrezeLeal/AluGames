@@ -51,6 +51,7 @@ fun main() {
         if(opcao.equals("S", true)){
             println("Insira a descrição personalizada para o jogo:")
             val descricao = leitura.nextLine()
+            MeuJogo.descricao
 
         }else{
 
