@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-G
-src/main/kotlin/Main.kt,d\8\d83ae3847b7d408136086cc5e9e95f5f7c126ed5
 Å
 Q.idea/sonarlint/securityhotspotstore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5,e\c\ec9779416cc74dd2eda2bef32a3326de6bd3fbef
 Å
@@ -11,8 +9,6 @@ w
 G.idea/sonarlint/issuestore/d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5,e\1\e152287579438eefaf001181cd90bc861163f336
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
-G
-src/main/kotlin/Jogo.kt,5\f\5f397179de44e27f28644822dff11f27fedc70ff
 Å
 Q.idea/sonarlint/securityhotspotstore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,f\6\f6d8310b47b1802ff534ff6900f24d2d3b76c4f1
 Å
@@ -73,8 +69,6 @@ G.idea/sonarlint/issuestore/3/0/30f9777ea696a18aa49d3e9967e93a4276065227,b\7\b7
 Q.idea/sonarlint/securityhotspotstore/e/2/e21de4db3966b36ae6381bb1431a7c7871f29652,0\3\03d55e3292f54f5268b46abf12de1c8f1b060939
 w
 G.idea/sonarlint/issuestore/6/f/6f0074ff992edebe8bcffdb4eb98309f6dcdbafe,8\c\8c48fe6da483bcd357d25e4023a64fcaf457117b
-K
-src/main/kotlin/InfoJogo.kt,f\3\f3c6e4cfe62c6f92834a91e12c9bfe0112e37349
 w
 G.idea/sonarlint/issuestore/c/a/ca83f933d8d912bb26648bde3e64b441f2224e48,b\0\b072df6c7c2b9d6d2acc9b7b4e100ad094190555
 w
@@ -159,8 +153,6 @@ w
 G.idea/sonarlint/issuestore/a/e/aecb3f9ca0439e5fbaf24ecae6aa5ea400181458,a\9\a931b2e461d33188f7c9c384b061aef83ec265bb
 w
 G.idea/sonarlint/issuestore/c/9/c95740aecd481f856c4db0281378b18fe81c01a4,3\c\3cddc327a8994c9c719e9de2040b22f987e5e01d
-P
- src/main/kotlin/InfoApiSharks.kt,3\6\363d3f12e2a3d04bd7482c72db3957d2b89a78aa
 Å
 Q.idea/sonarlint/securityhotspotstore/a/9/a931b2e461d33188f7c9c384b061aef83ec265bb,f\d\fd8c21b5395735f5321e24bc2dda9ebeb66e68e3
 Å
@@ -2761,3 +2753,7 @@ h
 8src/main/kotlin/br/com/alura/alugames/modelo/InfoJogo.kt,4\4\44f0de5234f899d1e49d9339c306dd8e2e35b194
 l
 <src/main/kotlin/br/com/alura/alugames/servicos/ConsumoApi.kt,5\e\5e6761e94ebbdfeb7bdb272809d1701da9ea6f10
+e
+5src/main/kotlin/br/com/alura/alugames/modelo/Gamer.kt,7\f\7ffc3f83ccd1bf5bb56ce2af4027664801424dfe
+m
+=src/main/kotlin/br/com/alura/alugames/principal/TesteGamer.kt,b\4\b46b2b5eda8ec6cec0029e62d0258e1a8097ceac
